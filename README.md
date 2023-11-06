@@ -1,5 +1,6 @@
 # thisko
 
+- https://crates.io/crates/thisko
 - Python 🐍 and Rust 🦀 Intercalling 🤝
 
 >> ![image](https://github.com/pySatellite/thisko/assets/87309910/9532247e-6380-4c17-81b6-fcbb8eb62e88)
